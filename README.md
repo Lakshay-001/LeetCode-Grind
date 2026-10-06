@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
