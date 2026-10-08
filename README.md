@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0197-rising-temperature) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
