@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0143-reorder-list) |
 | [0856-score-of-parentheses](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -54,8 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
