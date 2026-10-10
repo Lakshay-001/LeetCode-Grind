@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0856-score-of-parentheses](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
@@ -64,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
