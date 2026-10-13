@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0198-house-robber) |
+| [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0198-house-robber) |
+| [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0143-reorder-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
