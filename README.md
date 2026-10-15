@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1683-invalid-tweets) |
