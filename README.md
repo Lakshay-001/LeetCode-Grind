@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
