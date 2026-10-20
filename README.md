@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
