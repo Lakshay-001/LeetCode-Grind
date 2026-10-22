@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
