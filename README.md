@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
+| [1672-richest-customer-wealth](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
