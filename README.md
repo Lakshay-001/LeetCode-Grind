@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
+| [0766-toeplitz-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0766-toeplitz-matrix) |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
 | [1572-matrix-diagonal-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1672-richest-customer-wealth) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2022-convert-1d-array-into-2d-array) |
