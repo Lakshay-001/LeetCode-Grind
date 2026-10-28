@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0125-valid-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0455-assign-cookies) |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
@@ -152,4 +154,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0455-assign-cookies) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
