@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0455-assign-cookies) |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0455-assign-cookies) |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
 | ------- |
