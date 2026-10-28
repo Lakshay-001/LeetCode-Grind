@@ -7,11 +7,11 @@ class Solution(object):
         """
         n=len(mat)
         m=len(mat[0])
-        arr=[[0]*2 for _ in range(n)]
+        # arr=[[0]*2 for _ in range(n)]
+        arr=[]
         ans=[]
         for i in range(n):
-            arr[i][0]=i
-            arr[i][1]=sum(mat[i])
+            arr.append([i,sum(mat[i])])
         # print(arr)
         arr.sort(key=lambda x:x[1])
         # print(arr)
