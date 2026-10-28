@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1572-matrix-diagonal-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0070-climbing-stairs) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Memoization
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
