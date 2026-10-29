@@ -4,8 +4,8 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        ans = 0
-        for i in range(n // 2):
-            # ans += (n-1)-2*i
-            ans += n-(2*i+1)
-        return ans
+        # ans = 0
+        # for i in range(n // 2):
+        #     ans += n-(2*i+1)
+        # return ans
+        return n * n // 4
