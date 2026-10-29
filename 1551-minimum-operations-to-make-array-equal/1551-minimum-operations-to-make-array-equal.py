@@ -6,5 +6,6 @@ class Solution(object):
         """
         ans = 0
         for i in range(n // 2):
-            ans += (n-1)-2*i
+            # ans += (n-1)-2*i
+            ans += n-(2*i+1)
         return ans
