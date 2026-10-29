@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0070-climbing-stairs) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1551-minimum-operations-to-make-array-equal) |
 ## Memoization
 |  |
 | ------- |
