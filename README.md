@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
+| [1833-maximum-ice-cream-bars](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Matrix
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
