@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Matrix
 |  |
