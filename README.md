@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Dynamic Programming
 |  |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0518-coin-change-ii) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0070-climbing-stairs) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -167,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
@@ -211,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0062-unique-paths) |
+## Topological Sort
+|  |
+| ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
