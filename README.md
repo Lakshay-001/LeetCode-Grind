@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0134-gas-station) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
 | [0766-toeplitz-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0766-toeplitz-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
