@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
@@ -228,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
