@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0134-gas-station) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0070-climbing-stairs) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
 | [0766-toeplitz-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0766-toeplitz-matrix) |
