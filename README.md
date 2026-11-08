@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0134-gas-station) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
 | [0766-toeplitz-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0766-toeplitz-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
