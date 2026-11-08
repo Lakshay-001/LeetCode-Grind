@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0856-score-of-parentheses) |
 ## Stack
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0455-assign-cookies) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
