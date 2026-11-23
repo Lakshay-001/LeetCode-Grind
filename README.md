@@ -22,16 +22,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0098-validate-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0860-lemonade-change) |
 | [0948-bag-of-tokens](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0948-bag-of-tokens) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1572-matrix-diagonal-sum) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
 | [0766-toeplitz-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0766-toeplitz-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1572-matrix-diagonal-sum) |
