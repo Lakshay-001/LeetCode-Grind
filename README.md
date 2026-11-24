@@ -21,18 +21,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0134-gas-station) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0455-assign-cookies) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/0766-toeplitz-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lakshay-001/LeetCode-Grind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
